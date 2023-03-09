@@ -19,4 +19,4 @@ https://github.com/facebook/create-react-app
 
 ## Disponível em: ![pin-img](https://user-images.githubusercontent.com/110631271/215866770-755c96a6-17fa-4a7c-9c05-23693843f01c.png)
 
-jn-jogodedados-react.netlify.app
+https://jn-jogodedados-react.netlify.app

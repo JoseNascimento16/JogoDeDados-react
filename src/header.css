@@ -1,0 +1,11 @@
+.bloco-header{
+    align-self: center;
+}
+
+.header {
+    text-align: center;
+}
+
+.header > p {
+    margin-bottom: 0;
+}
